@@ -20,8 +20,11 @@ FEATURES
 TECHNOLOGY USED
 
 1)Python(Preferablly version 3.10 or advanced)
+
 2)Pandas
+
 3)scikit-learn
+
 4)Matplotlib
 
 
@@ -30,7 +33,9 @@ SAMPLE OUTPUT
 Inputs: Square Footage, Bedrooms and bathrooms.
 
 Outputs:
+
 Predicted price
+
 Visual bar chart comparing actual vs predicted prices
 <img width="1920" height="1080" alt="ss" src="https://github.com/user-attachments/assets/7e79d6b6-aef0-4590-a4e1-1c97487203e0" />
 <img width="1920" height="1080" alt="ss(1)" src="https://github.com/user-attachments/assets/48fbc68a-68e2-4202-8399-b643d524df3c" />
@@ -39,4 +44,5 @@ Visual bar chart comparing actual vs predicted prices
 
 
 POINT TO NOTE
+
 This is a basic learning level project. For real-world scenarios, use more data and explore advanced models.
