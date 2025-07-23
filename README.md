@@ -1,6 +1,7 @@
 # SCT_ML_1
 
 ABOUT
+
 This project shows a simple machine learning model that predicts house prices based on user inputs like square footage, number of bedrooms, and number of bathrooms using Linear Regression.
 
 FEATURES
